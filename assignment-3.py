@@ -62,12 +62,12 @@ while(True):
     else:
         break
 #extra question
-v=0
-z=0
-    for i in xyz:
-        if i%2==0:
-            v=v+1
+n=0
+t=0
+    for k in xyz:
+        if k%2==0:
+            n=n+1
         else:
-            z=z+1
-print(v)
-print(z)
+            y=y+1
+print(n)
+print(t)
